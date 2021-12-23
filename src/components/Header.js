@@ -10,7 +10,6 @@ function Header() {
         </span>
         gregslist
       </h1>
-      <Search />
     </header>
   );
 }
